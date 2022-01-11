@@ -7,7 +7,7 @@
 
 **Thoughts:** 
 
-**Link to work:** [Calculator App](https://github.com/zhrxxxx/100-days-of-code/blob/master/day1.java)
+**Link to work:** [Day1 number guessing game](https://github.com/zhrxxxx/100-days-of-code/blob/master/day1.java)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
