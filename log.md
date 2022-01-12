@@ -18,7 +18,7 @@ Future Function:
 4.user interface (player can select another level ir turn off the program after one round) [difficulty: After you make another level]
 5.prettier ui [optional]
 
-**Link(s) to work**
+**Link to work**
 [Day2: solo version black jack](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day2.java)
 
 
