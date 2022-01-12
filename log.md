@@ -3,14 +3,34 @@
 ### Day 1: January 11, 2021 
 ##### 
 
-**Today's Progress**: Make a simple number guessing game.
+**Today's Progress**: make a simple number guessing game.
 
-**Thoughts:** 
+**Link to work:** 
+[Day1: number guessing game](https://github.com/zhrxxxx/100-day-of-coding-java-files/blob/main/day1.java)
 
-**Link to work:** [Day1 number guessing game](https://github.com/zhrxxxx/100-day-of-coding-java-files/blob/main/day1.java)
+### Day 1: June 27, Monday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: I make a blackjack game that player only able to select level and draw cards infinetly and calculate their score. 
+Future Function: 
+1.compete with program robort [difficulty: Hard] 
+2.improve solo gameplay(3 rounds in total, record the socre player receive) [difficulty: Easy]
+3.more realistic library(cards that has been drawed won't appear again) [difficulty: Normal]
+4.user interface (player can select another level ir turn off the program after one round) [difficulty: After you make another level]
+5.prettier ui [optional]
+
+**Link(s) to work**
+[Day2: solo version black jack](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day2.java)
+
+
+
+
+
+
+
+
+
+
+### Day 0: February 30, 2021 (Example)
 
 **Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
@@ -19,12 +39,4 @@
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
