@@ -8,7 +8,8 @@
 **Link to work:** 
 [Day1: number guessing game](https://github.com/zhrxxxx/100-day-of-coding-java-files/blob/main/day1.java)
 
-### Day 1: June 27, Monday
+
+### Day 2: January 12, 2021 
 
 **Today's Progress**: I make a blackjack game that player only able to select level and draw cards infinetly and calculate their score. <Br/>
 Future Function: <Br/>
@@ -17,12 +18,20 @@ Future Function: <Br/>
 3.more realistic library(cards that has been drawed won't appear again) [difficulty: Normal]<Br/>
 4.user interface (player can select another level ir turn off the program after one round) [difficulty: After you make another level]<Br/>
 5.prettier ui [optional]<Br/>
-6.player can choose the value of Ace [difficukty: Normal]
+6.player can choose the value of Ace [difficulty: Normal]
 
 **Link to work**
 [Day2: solo version black jack](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day2.java)
 
 
+### Day 3: January 13, 2021 
+
+**Today's Progress**: Complete goal 6 (Ace can be 1 or 11 depend on player's total score), now the program can identify whether the card is a number card or a face card. Face cards are all count as 10 rather than 11/12/13.
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+[Day3: black jack ver0.1](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day3.java)
 
 
 
@@ -37,7 +46,8 @@ Future Function: <Br/>
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
+[Calculator App](http://www.example.com)
 
 
 
