@@ -29,7 +29,7 @@ Future Function: <Br/>
 ### Day 3: January 13, 2021 
 
 **Today's Progress**: <Br/>
-Complete goal 6 (Ace can be 1 or 11 depend on player's total score), now the program can identify whether the card is a number card or a face card. Face cards are all count as 10 rather than 11/12/13.
+Complete goal 6 (Ace can be 1 or 11 depend on player's total score), now the program can identify whether the card is a number card or a face card. Face cards are all count as 10 rather than 11/12/13.<Br/>
 Work on js during class.
 
 
