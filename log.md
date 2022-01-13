@@ -28,10 +28,10 @@ Future Function: <Br/>
 
 **Today's Progress**: Complete goal 6 (Ace can be 1 or 11 depend on player's total score), now the program can identify whether the card is a number card or a face card. Face cards are all count as 10 rather than 11/12/13.
 
-**Thoughts**: 
-
 **Link(s) to work**: 
 [Day3: black jack ver0.1](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day3.java)
+
+
 
 
 
