@@ -10,13 +10,13 @@
 
 ### Day 1: June 27, Monday
 
-**Today's Progress**: I make a blackjack game that player only able to select level and draw cards infinetly and calculate their score. 
-Future Function: 
-1.compete with program robort [difficulty: Hard] 
-2.improve solo gameplay(3 rounds in total, record the socre player receive) [difficulty: Easy]
-3.more realistic library(cards that has been drawed won't appear again) [difficulty: Normal]
-4.user interface (player can select another level ir turn off the program after one round) [difficulty: After you make another level]
-5.prettier ui [optional]
+**Today's Progress**: I make a blackjack game that player only able to select level and draw cards infinetly and calculate their score. <Br/>
+Future Function: <Br/>
+1.compete with program robort [difficulty: Hard] <Br/>
+2.improve solo gameplay(3 rounds in total, record the socre player receive) [difficulty: Easy]<Br/>
+3.more realistic library(cards that has been drawed won't appear again) [difficulty: Normal]<Br/>
+4.user interface (player can select another level ir turn off the program after one round) [difficulty: After you make another level]<Br/>
+5.prettier ui [optional]<Br/>
 6.player can choose the value of Ace [difficukty: Normal]
 
 **Link to work**
