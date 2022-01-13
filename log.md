@@ -3,7 +3,7 @@
 ### Day 1: January 11, 2021 
 ##### 
 
-**Today's Progress**: 
+**Today's Progress**: <Br/>
 Make a simple number guessing game.
 
 **Link to work:** 
@@ -12,7 +12,7 @@ Make a simple number guessing game.
 
 ### Day 2: January 12, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: <Br/>
 I make a blackjack game that player only able to select level and draw cards infinetly and calculate their score. <Br/>
 Future Function: <Br/>
 1.compete with program robort [difficulty: Hard] <Br/>
@@ -28,9 +28,11 @@ Future Function: <Br/>
 
 ### Day 3: January 13, 2021 
 
-**Today's Progress**: 
+**Today's Progress**: <Br/>
 Complete goal 6 (Ace can be 1 or 11 depend on player's total score), now the program can identify whether the card is a number card or a face card. Face cards are all count as 10 rather than 11/12/13.
 Work on js during class.
+
+
 
 
 **Link(s) to work**: 
