@@ -32,16 +32,17 @@ Future Function: <Br/>
 Complete goal 6 (Ace can be 1 or 11 depend on player's total score), now the program can identify whether the card is a number card or a face card. Face cards are all count as 10 rather than 11/12/13.<Br/>
 Work on js during class.
 
-
-
-
 **Link(s) to work**: 
 [Day3: black jack ver0.1](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day3.java)
 
 
+### Day 4: January 14, 2021 
 
+**Today's Progress**: <Br/>
+Complete goal 2, now the player will play 3 rounds in total in single Player mode, the program can calculate the final score and comment on it. Organize the code.
 
-
+**Link(s) to work**: <Br/>
+[Day3: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
 
 
 
@@ -49,11 +50,12 @@ Work on js during class.
 
 ### Day 0: February 30, 2021 (Example)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: <Br/>
+Fixed CSS, worked on canvas functionality for the app.
 
 **Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
-**Link(s) to work**: 
+**Link(s) to work**: <Br/>
 [Calculator App](http://www.example.com)
 
 
