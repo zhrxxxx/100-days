@@ -2,7 +2,7 @@
 
 ### Day 1: January 11, 2021 
 ##### 
-<del>some stricken code</del> 
+ 
 **Today's Progress**: <Br/>
 Make a simple number guessing game.
 
@@ -16,11 +16,11 @@ Make a simple number guessing game.
 I make a blackjack game that player only able to select level and draw cards infinetly and calculate their score. <Br/>
 Future Function: <Br/>
 1.compete with program robort [difficulty: Hard] <Br/>
-2.improve solo gameplay(3 rounds in total, record the socre player receive) [difficulty: Easy]<Br/>
+2.<del>improve solo gameplay(3 rounds in total, record the socre player receive) [difficulty: Easy]</del><Br/>
 3.more realistic library(cards that has been drawed won't appear again) [difficulty: Normal]<Br/>
-4.user interface (player can select another level ir turn off the program after one round) [difficulty: After you make another level]<Br/>
+4.<del>user interface (player can select another level ir turn off the program after one round) [difficulty: After you make another level]</del><Br/>
 5.prettier ui [optional]<Br/>
-6.player can choose the value of Ace [difficulty: Normal]
+6.<del>player can choose the value of Ace [difficulty: Normal</del>
 
 **Link to work**
 [Day2: solo version black jack](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day2.java)
@@ -53,7 +53,7 @@ Complete goal 2, now the player will play 3 rounds in total in single Player mod
 **Today's Progress**: <Br/>
 Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: <del>[delete line]</del>
 
 **Link(s) to work**: <Br/>
 [Calculator App](http://www.example.com)
