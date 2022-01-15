@@ -54,8 +54,8 @@ Future Function 2.0: <Br/>
 3.compete with program robort [difficulty: Hard] <Br/>
 4.<del>improve solo gameplay(3 rounds in total, record the socre player receive) [difficulty: Easy]</del><Br/>
 5.<del>user interface (player can select another level ir turn off the program after one round) [difficulty: After you make another level]</del><Br/>
-6.<del>the value of Ace is flexible [difficulty: Normal]</del>
-7.<del>special face cards [difficulty: Normal]</del>
+6.<del>the value of Ace is flexible [difficulty: Normal]</del><Br/>
+7.<del>special face cards [difficulty: Normal]</del><Br/>
 8.prettier ui [optional]<Br/>
 
 
