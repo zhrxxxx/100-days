@@ -42,7 +42,7 @@ Work on js during class.
 Complete goal 2, now the player will play 3 rounds in total in single Player mode, the program can calculate the final score and comment on it. Organize the code.
 
 **Link(s) to work**: <Br/>
-[Day3: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
+[Day4: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
 
 ### Day 4: January 14, 2021 
 
@@ -60,7 +60,7 @@ Future Function 2.0: <Br/>
 
 
 **Link(s) to work**: <Br/>
-[Day3: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
+[Day4: black jack ver0.3_auto mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day5.java)
 
 
 
