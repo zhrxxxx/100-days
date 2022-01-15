@@ -44,7 +44,23 @@ Complete goal 2, now the player will play 3 rounds in total in single Player mod
 **Link(s) to work**: <Br/>
 [Day3: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
 
+### Day 4: January 14, 2021 
 
+**Today's Progress**: <Br/>
+I make another level today (now program can automatically play blackjack with itself), compelete the first part of goal 6 (since the second part is quite easy so goal 6 is done( ‵▽′))<Br/>
+Future Function 2.0: <Br/>
+1.organize repeated code into method. [difficulty: Normal]<Br/>
+2.more realistic library(cards that has been drawed won't appear again) [difficulty: Normal]<Br/>
+3.compete with program robort [difficulty: Hard] <Br/>
+4.<del>improve solo gameplay(3 rounds in total, record the socre player receive) [difficulty: Easy]</del><Br/>
+5.<del>user interface (player can select another level ir turn off the program after one round) [difficulty: After you make another level]</del><Br/>
+6.<del>the value of Ace is flexible [difficulty: Normal]</del>
+7.<del>special face cards [difficulty: Normal]</del>
+8.prettier ui [optional]<Br/>
+
+
+**Link(s) to work**: <Br/>
+[Day3: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
 
 
 
