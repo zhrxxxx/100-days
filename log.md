@@ -2,7 +2,7 @@
 
 ### Day 1: January 11, 2021 
 ##### 
-
+<del>some stricken code</del> 
 **Today's Progress**: <Br/>
 Make a simple number guessing game.
 
