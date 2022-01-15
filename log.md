@@ -47,7 +47,7 @@ Complete goal 2, now the player will play 3 rounds in total in single Player mod
 ### Day 4: January 14, 2021 
 
 **Today's Progress**: <Br/>
-I make another level today (now program can automatically play blackjack with itself), compelete the first part of goal 6 (since the second part is quite easy so goal 6 is done( ‵▽′))<Br/>
+I make another level today (now program can automatically play blackjack with itself), complete the first part of goal 6 (since the second part is quite easy so goal 6 is done( ‵▽′))<Br/>
 Future Function 2.0: <Br/>
 1.organize repeated code into method. [difficulty: Normal]<Br/>
 2.more realistic library(cards that has been drawed won't appear again) [difficulty: Normal]<Br/>
