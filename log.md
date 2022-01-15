@@ -44,7 +44,7 @@ Complete goal 2, now the player will play 3 rounds in total in single Player mod
 **Link(s) to work**: <Br/>
 [Day4: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
 
-### Day 4: January 14, 2021 
+### Day 4: January 15, 2021 
 
 **Today's Progress**: <Br/>
 I make another level today (now program can automatically play blackjack with itself), improve ui for a little bit, complete the first part of goal 6 (since the second part is quite easy so goal 6 is done( ‵▽′))<Br/>
