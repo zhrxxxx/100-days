@@ -44,7 +44,7 @@ Complete goal 2, now the player will play 3 rounds in total in single Player mod
 **Link(s) to work**: <Br/>
 [Day4: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
 
-### Day 4: January 15, 2021 
+### Day 5: January 15, 2021 
 
 **Today's Progress**: <Br/>
 I make another level today (now program can automatically play blackjack with itself), improve ui for a little bit, complete the first part of goal 6 (since the second part is quite easy so goal 6 is done( ‵▽′))<Br/>
@@ -60,11 +60,21 @@ Future Function 2.0: <Br/>
 
 
 **Link(s) to work**: <Br/>
-[Day4: black jack ver0.3_auto mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day5.java)
+[Day5: black jack ver0.3_auto mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day5.java)
+
+
+### Day 6: January 16, 2021 (Example)
+
+**Today's Progress**: <Br/>
+place repeated codes into one method, fix some bugs for auto mode (now the program will correctly react to ace cards)<Br/>
+
+**Link(s) to work**: <Br/>
+[Day6: black jack ver0.4_bug fixing](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day6.java)
 
 
 
-### Day 0: February 30, 2021 (Example)
+
+### Day 0: January 30, 2021 (Example)
 
 **Today's Progress**: <Br/>
 Fixed CSS, worked on canvas functionality for the app.
