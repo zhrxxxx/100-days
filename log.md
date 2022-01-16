@@ -63,13 +63,16 @@ Future Function 2.0: <Br/>
 [Day5: black jack ver0.3_auto mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day5.java)
 
 
-### Day 6: January 16, 2021 (Example)
+### Day 6: January 16, 2021 
 
 **Today's Progress**: <Br/>
 place repeated codes into one method, fix some bugs for auto mode (now the program will correctly react to ace cards)<Br/>
 
 **Link(s) to work**: <Br/>
 [Day6: black jack ver0.4_bug fixing](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day6.java)
+
+
+
 
 
 
