@@ -41,7 +41,7 @@ Work on js during class.
 **Today's Progress**: <Br/>
 Complete goal 2, now the player will play 3 rounds in total in single Player mode, the program can calculate the final score and comment on it. Organize the code.
 
-**Link(s) to work**: <Br/>
+**Link(s) to work**: 
 [Day4: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
 
 ### Day 5: January 15, 2021 
@@ -59,16 +59,16 @@ Future Function 2.0: <Br/>
 8.prettier ui [optional]<Br/>
 
 
-**Link(s) to work**: <Br/>
+**Link(s) to work**: 
 [Day5: black jack ver0.3_auto mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day5.java)
 
 
 ### Day 6: January 16, 2021 
 
 **Today's Progress**: <Br/>
-place repeated codes into one method, fix some bugs for auto mode (now the program will correctly react to ace cards)<Br/>
+place repeated codes into one method, fix some bugs for auto mode (now the program will correctly react to ace cards).<Br/>
 
-**Link(s) to work**: <Br/>
+**Link(s) to work**: 
 [Day6: black jack ver0.4_bug fixing](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day6.java)
 
 
