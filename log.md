@@ -72,6 +72,13 @@ place repeated codes into one method, fix some bugs for auto mode (now the progr
 [Day6: black jack ver0.4_bug fixing](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day6.java)
 
 
+### Day 7: January 17, 2021 
+
+**Today's Progress**: <Br/>
+organize the settlement code into one method, now the code looks prettier.<Br/>
+
+**Link(s) to work**: 
+[Day7: black jack ver0.5_more methods](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day7.java)
 
 
 
