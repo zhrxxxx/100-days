@@ -49,7 +49,7 @@ Complete goal 2, now the player will play 3 rounds in total in single Player mod
 **Today's Progress**: <Br/>
 I make another level today (now program can automatically play blackjack with itself), improve ui for a little bit, complete the first part of goal 6 (since the second part is quite easy so goal 6 is done( ‵▽′))<Br/>
 Future Function 2.0: <Br/>
-1.organize repeated code into method. [difficulty: Normal]<Br/>
+1.<del>organize repeated code into method. [difficulty: Normal]</del><Br/>
 2.more realistic library(cards that has been drawed won't appear again) [difficulty: Normal]<Br/>
 3.compete with program robort [difficulty: Hard] <Br/>
 4.<del>improve solo gameplay(3 rounds in total, record the socre player receive) [difficulty: Easy]</del><Br/>
@@ -75,7 +75,7 @@ place repeated codes into one method, fix some bugs for auto mode (now the progr
 ### Day 7: January 17, 2021 
 
 **Today's Progress**: <Br/>
-organize the settlement code into one method, now the code looks prettier.<Br/>
+Complete goal 1 (organize the settlement code into one method), now the code looks prettier.<Br/>
 
 **Link(s) to work**: 
 [Day7: black jack ver0.5_more methods](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day7.java)
