@@ -81,6 +81,15 @@ Complete goal 1 (organize the settlement code into one method), now the code loo
 [Day7: black jack ver0.5_more methods](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day7.java)
 
 
+### Day 8: January 18, 2021 
+
+**Today's Progress**: <Br/>
+Start working on goal 2: the card that has been draw won't show up again in both player and robot's desk, so player can predict the possiblity more strategically.<Br/>
+
+**Link(s) to work**: 
+[Day8: black jack ver0.51_tiny update](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day8.java)
+
+
 
 
 
