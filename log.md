@@ -90,6 +90,14 @@ Start working on goal 2: the card that has been draw won't show up again in both
 [Day8: black jack ver0.51_tiny update](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day8.java)
 
 
+### Day 9: January 19, 2021 
+
+**Today's Progress**: <Br/>
+work lab1.<Br/>
+
+**Link(s) to work**: 
+
+
 
 
 
