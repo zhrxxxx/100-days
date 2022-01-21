@@ -93,7 +93,14 @@ Start working on goal 2: the card that has been draw won't show up again in both
 ### Day 9: January 19, 2021 
 
 **Today's Progress**: <Br/>
-work on lab1.<Br/>
+work on lab1<Br/>
+
+**Link(s) to work**: 
+
+### Day 10: January 20, 2021 
+
+**Today's Progress**: <Br/>
+keep working on lab1<Br/>
 
 **Link(s) to work**: 
 
