@@ -102,6 +102,14 @@ work on lab1<Br/>
 keep working on lab1<Br/>
 
 
+### Day 11: January 21, 2021 
+
+**Today's Progress**: <Br/>
+still working on project 1<Br/>
+
+
+**Link(s) to work**: 
+[Day11: lab project 1_Extension](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day11.ts)
 
 
 
