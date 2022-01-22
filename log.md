@@ -7,7 +7,7 @@
 Make a simple number guessing game.
 
 **Link to work:** 
-[Day1: number guessing game](https://github.com/zhrxxxx/100-day-of-coding-java-files/blob/main/day1.java)
+[Day1: number guessing game](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day1.java)
 
 
 ### Day 2: January 12, 2021 
@@ -23,7 +23,7 @@ Future Function: <Br/>
 6.<del>player can choose the value of Ace [difficulty: Normal</del>
 
 **Link to work**
-[Day2: solo version black jack](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day2.java)
+[Day2: solo version black jack](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day2.java)
 
 
 ### Day 3: January 13, 2021 
@@ -42,7 +42,7 @@ Work on js during class.
 Complete goal 2, now the player will play 3 rounds in total in single Player mode, the program can calculate the final score and comment on it. Organize the code.
 
 **Link(s) to work**: 
-[Day4: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day4.java)
+[Day4: black jack ver0.2_single player mode](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day4.java)
 
 ### Day 5: January 15, 2021 
 
@@ -60,7 +60,7 @@ Future Function 2.0: <Br/>
 
 
 **Link(s) to work**: 
-[Day5: black jack ver0.3_auto mode](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day5.java)
+[Day5: black jack ver0.3_auto mode](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day5.java)
 
 
 ### Day 6: January 16, 2021 
@@ -69,7 +69,7 @@ Future Function 2.0: <Br/>
 place repeated codes into one method, fix some bugs for auto mode (now the program will correctly react to ace cards).<Br/>
 
 **Link(s) to work**: 
-[Day6: black jack ver0.4_bug fixing](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day6.java)
+[Day6: black jack ver0.4_bug fixing](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day6.java)
 
 
 ### Day 7: January 17, 2021 
@@ -78,7 +78,7 @@ place repeated codes into one method, fix some bugs for auto mode (now the progr
 Complete goal 1 (organize the settlement code into one method), now the code looks prettier.<Br/>
 
 **Link(s) to work**: 
-[Day7: black jack ver0.5_more methods](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day7.java)
+[Day7: black jack ver0.5_more methods](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day7.java)
 
 
 ### Day 8: January 18, 2021 
@@ -87,7 +87,7 @@ Complete goal 1 (organize the settlement code into one method), now the code loo
 Start working on goal 2: the card that has been draw won't show up again in both player and robot's desk, so player can predict the possiblity more strategically. If the libaray is run out of cards, the program will remind player and player can't draw card infinitely.<Br/>
 
 **Link(s) to work**: 
-[Day8: black jack ver0.51_tiny update](https://github.com/zhrxxxx/100-day-of-code-java-files/blob/main/day8.java)
+[Day8: black jack ver0.51_tiny update](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day8.java)
 
 
 ### Day 9: January 19, 2021 
@@ -101,6 +101,9 @@ work on lab1<Br/>
 **Today's Progress**: <Br/>
 keep working on lab1<Br/>
 
+**Link(s) to work**: 
+[Day10: lab project 1_Extension](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day10.json)
+
 
 ### Day 11: January 21, 2021 
 
@@ -109,7 +112,7 @@ still working on project 1<Br/>
 
 
 **Link(s) to work**: 
-[Day11: lab project 1_Extension](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day11.ts)
+[Day11: lab project 1_Extension](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day11.html)
 
 
 
