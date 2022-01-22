@@ -102,7 +102,7 @@ work on lab1<Br/>
 keep working on lab1<Br/>
 
 **Link(s) to work**: 
-[Day10: lab project 1_Extension](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day10.json)
+[Day10: lab project 1_manifest](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day10.json)
 
 
 ### Day 11: January 21, 2021 
@@ -112,7 +112,7 @@ still working on project 1<Br/>
 
 
 **Link(s) to work**: 
-[Day11: lab project 1_Extension](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day11.html)
+[Day11: lab project 1_popup](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day11.html)
 
 
 
