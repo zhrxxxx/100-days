@@ -122,7 +122,7 @@ One more day work on project 1, learn more about user interface design today<Br/
 
 
 **Link(s) to work**: 
-[Day12: lab project 1_ui Button](https://github.com/zhrxxxx/100-day-of-code-files/edit/main/button.css)
+[Day12: lab project 1_ui Button](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day12.css)
 
 
 
