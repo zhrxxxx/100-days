@@ -125,7 +125,14 @@ One more day work on project 1, learn more about user interface design today<Br/
 [Day12: lab project 1_ui Button](https://github.com/zhrxxxx/100-day-of-code-files/blob/main/day12.css)
 
 
+### Day 12: January 21, 2021 
 
+**Today's Progress**: <Br/>
+make a complete browser extension base on tutorial.<Br/>
+
+
+**Link(s) to work**: 
+[Day12: lab project 1_accessable web extension](https://github.com/zhrxxxx/100-day-of-code-files/tree/main/day13)
 
 
 
