@@ -153,7 +153,7 @@ Add more functions for lab project 1, now users is able to select 3 default colo
 
 
 **Link(s) to work**: 
-[Day15: lab project 1_background color done](https://github.com/zhrxxxx/100-day-of-code-files/tree/main/day14)
+[Day15: lab project 1_background color done](https://github.com/zhrxxxx/100-day-of-code-files/tree/main/day15)
 
 
 
