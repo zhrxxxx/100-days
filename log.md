@@ -149,7 +149,7 @@ working on lab project 1.<Br/>
 ### Day 15: January 25, 2021 
 
 **Today's Progress**: <Br/>
-Add more functions for lab project 1, now user is able to select 3 default colors among dark grey, purple and blue as the background of browser.<Br/>
+Add more functions for lab project 1, now users is able to select 3 default colors among dark grey, purple and blue as the background of their browser.<Br/>
 
 
 **Link(s) to work**: 
