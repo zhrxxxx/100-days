@@ -146,6 +146,15 @@ working on lab project 1.<Br/>
 
 
 
+### Day 15: January 25, 2021 
+
+**Today's Progress**: <Br/>
+Add more functions for lab project 1, now user is able to select 3 default colors among dark grey, purple and blue as the background of browser.<Br/>
+
+
+**Link(s) to work**: 
+[Day15: lab project 1_background color done](https://github.com/zhrxxxx/100-day-of-code-files/tree/main/day14)
+
 
 
 
