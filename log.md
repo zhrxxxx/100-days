@@ -135,6 +135,17 @@ make a complete browser extension base on tutorial.<Br/>
 [Day13: lab project 1_accessable web extension](https://github.com/zhrxxxx/100-day-of-code-files/tree/main/day13)
 
 
+### Day 14: January 24, 2021 
+
+**Today's Progress**: <Br/>
+working on lab project 1.<Br/>
+
+
+**Link(s) to work**: 
+[Day14: lab project 1_adjustment](https://github.com/zhrxxxx/100-day-of-code-files/tree/main/day14)
+
+
+
 
 
 
