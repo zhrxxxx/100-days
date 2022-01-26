@@ -157,6 +157,17 @@ Add more functions for lab project 1, now users is able to select 3 default colo
 
 
 
+### Day 16: January 26, 2021 
+
+**Today's Progress**: <Br/>
+Improve ui for lab project 1, future functionL grab all string and headline and changetheir color.<Br/>
+
+
+**Link(s) to work**: 
+[Day15: lab project 1_improve user interface](https://github.com/zhrxxxx/100-day-of-code-files/tree/main/day16)
+
+
+
 
 
 
