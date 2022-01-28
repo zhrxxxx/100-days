@@ -167,6 +167,19 @@ Improve ui for lab project 1, future functionL grab all string and headline and 
 [Day15: lab project 1_improve user interface](https://github.com/zhrxxxx/100-day-of-code-files/tree/main/day16)
 
 
+### Day 17: January 27, 2021 
+
+**Today's Progress**: <Br/>
+Work on quiz1.<Br/>
+
+
+### Day 18: January 28, 2021 
+
+**Today's Progress**: <Br/>
+Work on quiz1.<Br/>
+
+
+
 
 
 
